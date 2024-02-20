@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLayouts</string>
+    <string name="your_name">Tu nombre:</string>
+    <string name="write_here">Escribe aquí</string>
+    <string name="send_information">Enviar</string>
+</resources>
