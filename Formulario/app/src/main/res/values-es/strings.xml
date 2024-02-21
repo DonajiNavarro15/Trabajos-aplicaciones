@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="lbl_title">Formulario registro</string>
+    <string name="lbl_userName">Nombre</string>
+    <string name="lbl_birthdate">Fecha de nacimiento</string>
+    <string name="lbl_dateForm">dd/mm/aaaa</string>
+    <string name="lbl_gender">Género</string>
+    <string name="lbl_mas">Maculino</string>
+    <string name="lbl_fem">Femenino</string>
+    <string name="lbl_phoneNumber">Número telefónico</string>
+    <string name="lbl_email">Correo electrónico</string>
+    <string name="lbl_emailexample">ex@ejem.com</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="lbl_confirmPassword">Confirmar contraseña</string>
+    <string name="btn_clean">Limpiar</string>
+    <string name="btn_register">Registrar</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Formulario</string>
+    <string name="lbl_title">Registration Form</string>
+    <string name="lbl_userName">Name</string>
+    <string name="lbl_birthdate">Date of birth</string>
+    <string name="lbl_dateForm">dd/mm/aaaa</string>
+    <string name="lbl_gender">Gender</string>
+    <string name="lbl_mas">Male</string>
+    <string name="lbl_fem">Female</string>
+    <string name="lbl_phoneNumber">Phone number</string>
+    <string name="lbl_email">Email address</string>
+    <string name="lbl_emailexample">ex@ejem.com</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirmPassword">Confirm password</string>
+    <string name="btn_clean">Clean</string>
+    <string name="btn_register">Register</string>
+</resources>
