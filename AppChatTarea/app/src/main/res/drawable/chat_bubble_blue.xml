@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#B7C9F2"/> <!-- Color de fondo del globo de chat -->
+    <corners android:radius="12dp"/> <!-- Radio de las esquinas del globo -->
+</shape>
